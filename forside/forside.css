@@ -1,4 +1,8 @@
 .oppskrift {
-  float: left;
   width: 33.33%;
+  background-color: #ffff;
+}
+
+img {
+  max-width = 100%;
 }
