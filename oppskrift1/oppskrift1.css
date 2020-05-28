@@ -30,11 +30,12 @@ img {
 
 .oppskrift {
     position: relative;
-    width: 50%;
+    width: 48%;
     float: left;
     padding: 5px;
     margin: 5px;
-  }
+    border-style: solid;
+}
 
 .ingredienser {
     list-style-type: disc;
