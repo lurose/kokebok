@@ -24,6 +24,9 @@
 
 
 img {
+  position: relative;
   max-width: 300px;
   margin: 2px;
+  border-style: solid;
+  object-fit: fill;
 }
