@@ -14,32 +14,33 @@
 }
 
 img {
-    max-width: 100%;
+    max-width: 99%;
     position: relative;
     border-style: dotted;
     text-align: center;
+    display: block;
+    margin: auto;
 }
 
 .inndeling {
-    display: flex;
+    display: table;
     padding: 10px;
     margin: 5px;    
 }
 
 .oppskrift {
     position: relative;
-    border-style: double;
-    width: 45%;
+    width: 50%;
     float: left;
     padding: 5px;
-    padding-right: 5px;
     margin: 5px;
   }
 
 .ingredienser {
-    list-style-type: square;
+    list-style-type: disc;
+    border-right-style: 1rem solid;
 }
 
 .fremgangsmåte {
-    list-style-type: upper-roman;
+    list-style-type: decimal-leading-zero;
 }
