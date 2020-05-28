@@ -12,3 +12,34 @@
     background-color: #1abc9c;
     text-transform: uppercase;
 }
+
+img {
+    max-width: 100%;
+    position: relative;
+    border-style: dotted;
+    text-align: center;
+}
+
+.inndeling {
+    display: flex;
+    padding: 10px;
+    margin: 5px;    
+}
+
+.oppskrift {
+    position: relative;
+    border-style: double;
+    width: 45%;
+    float: left;
+    padding: 5px;
+    padding-right: 5px;
+    margin: 5px;
+  }
+
+.ingredienser {
+    list-style-type: square;
+}
+
+.fremgangsmåte {
+    list-style-type: upper-roman;
+}
