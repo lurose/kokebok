@@ -1,9 +1,13 @@
+
 .header {
+  position: relative;
+  color: white;
   text-align: center;
   background: #1abc9c;
 }
 
-.blabla {
+.inndeling {
+  position: relative;
   display: flex;
   padding: 10px;
   margin: 10px;
@@ -11,7 +15,8 @@
   
 }
 .oppskrift {
-  border-style: solid;
+  position: relative;
+  border-style: double;
   width: 33.33%;
   float: left;
   padding: 10px;
@@ -20,6 +25,7 @@
 
 
 img {
- max-width: 100px;
- margin: 10px;
+  position: relative;
+  max-width: 500px;
+  margin: 10px;
 }
