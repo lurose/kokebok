@@ -11,14 +11,14 @@
 .inndeling {
   display: flex;
   padding: 10px;
-  margin: 10px;
+  margin: 5px;
  
   
 }
 .oppskrift {
   position: relative;
   border-style: double;
-  width: 33.33%;
+  width: 33%;
   float: left;
   padding: 5px;
   padding-right: 5px;
