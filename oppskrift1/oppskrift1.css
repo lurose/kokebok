@@ -1,20 +1,14 @@
 .header {
-    background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)),
-        url(../images/weather.jpg);
-
-    height: 50%;
-
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
     position: relative;
+    color: white;
+    text-align: center;
+    background: #1abc9c;
+    padding: 10px;  
 }
 
-.header-text {
-    position: absolute;
-    text-align: center;
+.om-meg {
     color: white;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
+    text-align: center;
+    background-color: #1abc9c;
+    text-transform: uppercase;
 }
