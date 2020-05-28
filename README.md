@@ -1,2 +1,4 @@
-# kokebok
-Små oppskrifter som er enkle å lage: https://lurose.github.io/kokebok/forside/
+# MIN ENKLE KOKEBOK
+Mitt første møte med webdesign, HTML og CSS, ta gjerne en titt:))
+
+https://lurose.github.io/kokebok/forside/
