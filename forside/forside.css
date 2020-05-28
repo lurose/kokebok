@@ -29,7 +29,6 @@
 img {
   position: relative;
   max-width: 100%;
-  margin: 2px;
   border-style: solid;
   object-fit: fill;
 }
