@@ -1,3 +1,7 @@
+main{
+    text-align: center;
+}
+
 .header {
     position: relative;
     color: white;
@@ -24,13 +28,14 @@ img {
 
 .inndeling {
     display: table;
-    padding: 10px;
-    margin: 5px;    
+    padding: 5px;
+    margin: 5px;
+    clear: both;    
 }
 
 .oppskrift {
     position: relative;
-    width: 48%;
+    width: 45%;
     float: left;
     padding: 5px;
     margin: 5px;
