@@ -41,3 +41,9 @@ img {
   text-align: center;
   display: inline-block;
 }
+
+.om-meg {
+  color: gray;
+  text-align: center;
+  background-color: #1abc9c;
+}
