@@ -1,9 +1,18 @@
+.blabla {
+  display: flex;
+  padding: 10px;
+  
+}
 .oppskrift {
   width: 33.33%;
   background-color: #ffff;
   border-style: solid;
+  flex: 33.33%;
+  float: left;
+  padding: 5px;
 }
 
+
 img {
-  width=25%
+ max-width: 50px;
 }
