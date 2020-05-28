@@ -1,4 +1,50 @@
-h1 {
-  color: tomato;
+
+.header {
+  position: relative;
+  color: white;
   text-align: center;
+  background: rgb(229, 145, 225);
+  padding: 10px;  
+}
+
+.om-meg {
+  color: white;
+  text-align: center;
+  background-color: rgb(229, 145, 225);
+  text-transform: uppercase;
+}
+
+img {
+  max-width: 99%;
+  position: relative;
+  border-style: dotted;
+  text-align: center;
+  display: block;
+  margin: auto;
+}
+
+.inndeling {
+  position: relative;
+  display: table;
+  padding: 5px;
+  margin: auto;
+  clear: both;    
+}
+
+.oppskrift {
+  position: relative;
+  width: 45%;
+  float: left;
+  padding: 5px;
+  margin: 5px;
+  border-style: solid;
+}
+
+.ingredienser {
+  list-style-type: disc;
+  border-right-style: 1rem solid;
+}
+
+.fremgangsmåte {
+  list-style-type: decimal-leading-zero;
 }
