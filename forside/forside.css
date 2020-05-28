@@ -33,3 +33,11 @@ img {
   border-style: solid;
   object-fit: fill;
 }
+
+.button {
+  font-size: 12px;
+  padding: 10px 24 px;
+  border-radius: 8px;
+  text-align: center;
+  display: inline-block;
+}
